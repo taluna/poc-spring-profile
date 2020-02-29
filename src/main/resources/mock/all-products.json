@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "location": {
+        "address": "Chabad",
+        "city": "São Paulo",
+        "neighborhood": "Jardim Paulista",
+        "uf": "sp",
+        "zone": "west",
+        "number": "86"
+      },
+      "name": "Praça São Paulo - Residencial",
+      "createdAt": "2019-09-14T09:24:18",
+      "geolocation": {
+        "lat": -23.5616093,
+        "lon": -46.6723079
+      },
+      "divisionTypeName": "Apartamento",
+      "photo": {
+          "name": "praca-sao-paulo-residencial",
+          "smallUrl": "https://freshome.com/wp-content/uploads/2018/11/shutterstock_265880288.jpg",
+          "mediumUrl": "https://freshome.com/wp-content/uploads/2018/11/shutterstock_265880288.jpg",
+          "largeUrl": "https://freshome.com/wp-content/uploads/2018/11/shutterstock_265880288.jpg"
+        },
+      "sellingPrice": "R$ 6000.000,00",
+      "bedroom": 3,
+      "bathroom": 2,
+      "parkingLot": 2,
+      "area": 125,
+      "suite": 1
+    }
+  ]
+}
